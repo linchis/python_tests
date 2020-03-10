@@ -5,6 +5,7 @@ First approach to web scraping world
 ##How to use 
 
 code(
+    
     from bs4 import BeautifulSoup as bsoup
     from urllib.request import Request, urlopen
     import string
